@@ -10,7 +10,7 @@ interface NewsSliderProps {
 }
  
 const NewsSlider: FunctionComponent<NewsSliderProps> = ({slides}) => {
-  const [firstSlideId, setFirstSlideId] = useState(0)
+  const [firstSlideId, ] = useState(0)
   const [slideArray, setSlideArray] = useState<Slide[]>(slides)
   const handleSlideLeft = () => {
     setSlideArray([slideArray[slideArray.length - 1], ...slideArray.slice(0, slideArray.length - 1)])
