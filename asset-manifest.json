@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db9faecc.css",
+    "main.js": "/static/js/main.5c5fd512.js",
+    "static/js/787.cdd32e0d.chunk.js": "/static/js/787.cdd32e0d.chunk.js",
+    "static/media/imi_logo.png": "/static/media/imi_logo.a8e03b92bb8f220fdd6c.png",
+    "static/media/close-icon.svg": "/static/media/close-icon.e2005434405ad8b34801774c93e62072.svg",
+    "index.html": "/index.html",
+    "static/media/menu-icon.svg": "/static/media/menu-icon.2f4f56f619f24397ac52f41e23f5e437.svg",
+    "static/media/left-svgrepo-com.svg": "/static/media/left-svgrepo-com.bf3e5651b67d5cc98b05630bb73c0dcc.svg",
+    "static/media/right-svgrepo-com.svg": "/static/media/right-svgrepo-com.902a998c9371721443114fb6f850ca85.svg",
+    "main.db9faecc.css.map": "/static/css/main.db9faecc.css.map",
+    "main.5c5fd512.js.map": "/static/js/main.5c5fd512.js.map",
+    "787.cdd32e0d.chunk.js.map": "/static/js/787.cdd32e0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db9faecc.css",
+    "static/js/main.5c5fd512.js"
+  ]
+}
